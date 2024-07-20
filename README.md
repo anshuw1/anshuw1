@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFlbzJteHZpcGh3dTRiMGVvMWE2a3I0ZnhuNGI0dGJveDIzM3I5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nYD66ng26rP1WMmXwx/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif?cid=ecf05e47flj3wl9g1336lj0quvstlk4xgyknjspl6q74sxq1&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200"/>
 </div>
 <h1 id="header" align="center">
    &nbsp;&nbsp;<i></i><p><span class="bold">Hello&nbsp; </i>
@@ -15,7 +15,6 @@
   </a>
 </div>
 
----
 
 ### 👨‍💻 About Me :
 <div align= "justify"> Anshu Waghmare, a Devops Enthusiast from Nagpur, India.
