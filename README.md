@@ -1,25 +1,28 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif?cid=ecf05e47flj3wl9g1336lj0quvstlk4xgyknjspl6q74sxq1&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200"/>
-</div>
-<h1 id="header" align="center">
-   &nbsp;&nbsp;<i></i><p><span class="bold">Hello&nbsp; </i>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </span</p>
-</h1>
-<div id="badges" align="center">
-  <a href="linkedin.com/in/anshu-waghmare-b9ba34294">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/anshu._.w/">
-    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
 
+<h1 align="center">Hey Everyone 👋, I'm Anshu Waghmare</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
+<h3 align="center">A passionate DevOps Engineer From India.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-### 👨‍💻 About Me :
-<div align= "justify"> Anshu Waghmare, a Devops Enthusiast from Nagpur, India.
-- :telescope: I'm currently pursuing my Bachelor of Technology degree at Nagpur University. Passionate about enhancing technology and efficiency in software development and operations. Aspiring DevOps Engineer with a strong foundation in DevOps practices and Amazon Web Services (AWS). Eager to apply these skills to real-world challenges and actively seeking opportunities to contribute knowledge.
-<div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
+
+- 🔭 I'm currently pursuing my Bachelor of Technology degree at Nagpur University.
+  
+- 🌱 Passionate about enhancing technology and efficiency in software development and operations.
+
+- 👨‍💻Aspiring **DevOps Engineer** with a strong foundation in **DevOps** practices and **Amazon Web Services (AWS)**.
+
+- 💬 Ask me about **DevOps & AWS**
+
+- 📫 Eager to apply these skills to real-world challenges and actively seeking opportunities to contribute knowledge.
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/anshu-waghmare-b9ba34294?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Byc7J7%2FFNTnWHF8bU6HlYJw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
+<a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a></p>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -38,6 +41,11 @@
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/terraform/terraform-original.svg" title="Redux" alt="Redux " width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
 </div>
+
+
+---
+
+<div><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anshuw1&show_icons=true&locale=en" alt="anshuw1" /></p>  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuw1" alt="anshuw1" /></p></div>
 
 ---
 
