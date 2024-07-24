@@ -45,7 +45,7 @@
 
 ---
 
-<div><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anshuw1&show_icons=true&locale=en" alt="anshuw1" /></p>  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuw1" alt="anshuw1" /></p></div>
+<div><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anshuw1&show_icons=true&locale=en" alt="anshuw1" /></p align="right">  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anshuw1&theme=highcontrast" alt="GitHub Streak" /></a></div>
 
 ---
 
