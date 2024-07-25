@@ -38,14 +38,17 @@
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kubernetes/kubernetes-plain-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/terraform/terraform-original.svg" title="Redux" alt="Redux " width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/terraform/terraform-original.svg" title="Redux" alt="Redux " width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
 </div>
 
 
 ---
 
-<div><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anshuw1&show_icons=true&locale=en" alt="anshuw1" /></p align="right">  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anshuw1&theme=highcontrast" alt="GitHub Streak" /></a></div>
+<div><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anshuw1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="450" height="400"/>
+
+</p align="right">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuw1&theme=vue-dark&hide_border=true" alt="GitHub Streak" width="450" height="400 "/></div>
+
 
 ---
 
