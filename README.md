@@ -14,7 +14,9 @@
 
 - 💬 Ask me about **DevOps & AWS**
 
-- 📫 Eager to apply these skills to real-world challenges and actively seeking opportunities to contribute knowledge.
+- 💹 Eager to apply these skills to real-world challenges and actively seeking opportunities to contribute knowledge.
+
+- 📧 How to reach me **anshuwaghmare1111@gmail.com**
 
 ---
 
