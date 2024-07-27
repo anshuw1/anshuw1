@@ -1,10 +1,8 @@
 
-<h1 align="center">Hey Everyone 👋, I'm Anshu Waghmare</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
-<h3 align="center">A passionate DevOps Engineer From India.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<h1 align="center">Hi👋, I'm Anshu Waghmare from India</h1>
+<div align="center"> <img src="68747470733a2f2f692e6962622e636f2f48424b576272502f617a6661722d6769746875622e6a7067.jpeg.jpg"> </div>
+<h1 align="center">The DevOps Guy who ♥ automating stuff.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
 - 🔭 I'm currently pursuing my Bachelor of Technology degree at Nagpur University.
   
@@ -16,7 +14,9 @@
 
 - 💹 Eager to apply these skills to real-world challenges and actively seeking opportunities to contribute knowledge.
 
-- 📧 How to reach me **anshuwaghmare1111@gmail.com**
+- 📧 You can reach me at **anshuwaghmare1111@gmail.com**
+  
+- ⚡ Fun fact **We guys automate stuff**
 
 ---
 
@@ -44,13 +44,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
 </div>
 
-
 ---
-
 <div><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anshuw1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="450" height="400"/>
 
 </p align="right">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuw1&theme=vue-dark&hide_border=true" alt="GitHub Streak" width="450" height="400 "/></div>
-
 
 ---
 
