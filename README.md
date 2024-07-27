@@ -45,9 +45,5 @@
 </div>
 
 ---
-<div><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anshuw1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="450" height="400"/>
-
-</p align="right">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuw1&theme=vue-dark&hide_border=true" alt="GitHub Streak" width="450" height="400 "/></div>
-
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anshuw1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="450" height="400"/>
 
