@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anshu-waghmare-b9ba34294?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Byc7J7%2FFNTnWHF8bU6HlYJw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
-<a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a></p>
+<a href="https://instagram.com/anshu1.w/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a></p>
 
 ---
 
