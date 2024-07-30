@@ -8,7 +8,7 @@
   
 - 🌱 Passionate about enhancing technology and efficiency in software development and operations.
 
-- 👨‍💻Aspiring **DevOps Engineer** with a strong foundation in **DevOps** practices and **Amazon Web Services (AWS)**.
+- 👨‍💻Aspiring **AWS DevOps Engineer** with a strong foundation in **DevOps** practices and **Amazon Web Services (AWS)**.
 
 - 💬 Ask me about **DevOps & AWS**
 
